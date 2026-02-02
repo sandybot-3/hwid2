@@ -1,0 +1,7 @@
+{
+  "authorized_hwids": {
+    "12345678-ABCDEFGH": "Example User 1",
+    "87654321-HGFEDCBA": "Example User 2",
+    "B8A35539-BD746329": "sandy"
+  }
+}
